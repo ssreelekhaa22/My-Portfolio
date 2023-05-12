@@ -57,8 +57,8 @@ let resumeData = {
     {
       CompanyName: "University Of Cincinnati",
       specialization: "Graduate Teaching Assistant",
-      MonthOfJoining: "Aug",
-      YearOfJoining: "2021",
+      MonthOfJoining: "Jan",
+      YearOfJoining: "2022",
       MonthOfPassing: "April",
       YearOfPassing: "2022",
       Courses:
@@ -69,9 +69,9 @@ let resumeData = {
     {
       CompanyName: "University Of Cincinnati",
       specialization: "Software Developer",
-      MonthOfJoining: "Jan",
+      MonthOfJoining: "Feb",
       YearOfJoining: "2021",
-      MonthOfPassing: "Aug",
+      MonthOfPassing: "Dec",
       YearOfPassing: "2021",
       Achievements:
         "Experience in developing creating responsive web applications for my university using ReactJS, AngularJS, HTML, CSS, and BootstrapCSS. I excel in implementing scalable backend solutions using Python, collaborating with other developers using Git version control, and adhering to software development best practices. Proficient in debugging and resolving application bugs, implementing effective testing strategies, and following Agile development methodologies for efficient project completion. ",
