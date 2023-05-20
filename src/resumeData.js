@@ -33,7 +33,7 @@ let resumeData = {
     {
       UniversityName: "University Of Cincinnati",
       specialization: "Computer Science",
-      MonthOfPassing: "Sept",
+      MonthOfPassing: "Apr",
       YearOfPassing: "2022",
     },
     {
