@@ -49,7 +49,7 @@ let resumeData = {
       specialization: "Software Development Engineer",
       MonthOfJoining: "May",
       YearOfJoining: "2022",
-      MonthOfPassing: "April",
+      MonthOfPassing: "March",
       YearOfPassing: "2023",
       Achievements:
         "Part of a team that built and released risk management for Amazon's EHS suite, utilizing ReactJs, GraphQL, TypeScript, Material-UI, and MirageDB. Increased test coverage from 60% to 90% by creating unit tests using Jest. Designed and implemented permissions for role-based access control. Participated in User Acceptance Testing and collaborated with diverse stakeholders. Presented concepts and demos at bi-weekly sprint intervals, and contributed to design and code reviews. ",
