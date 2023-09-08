@@ -45,6 +45,15 @@ let resumeData = {
   ],
   experience: [
     {
+      CompanyName: "PDF Solutions",
+      specialization: "Software Engineer",
+      MonthOfJoining: "July",
+      YearOfJoining: "2023",
+
+      Achievements:
+        "Designed and developed user interfaces using HTML, BootstrapCSS, jQuery, AngularJS, Flexbox, D3.js, SVN, and ChartJS, including an executive dashboard for critical metric aggregation, and enhanced user experience with UI/UX design tools like Zeplin, Figma, and Carbon Design System.",
+    },
+    {
       CompanyName: "Amazon",
       specialization: "Software Development Engineer",
       MonthOfJoining: "May",
@@ -56,28 +65,16 @@ let resumeData = {
     },
     {
       CompanyName: "University Of Cincinnati",
-      specialization: "Graduate Teaching Assistant",
-      MonthOfJoining: "Jan",
-      YearOfJoining: "2022",
-      MonthOfPassing: "April",
-      YearOfPassing: "2022",
-      Courses:
-        "Courses: Software Architecture, Discrete Computational Structures, Large Scale Software Engineering",
-      Achievements:
-        " Delivered weekly lectures to undergraduate students on topics such as discrete mathematics, and computational structures. Additionally, provided support to students outside of lab sessions, and utilized tools such as GitHub, GitBash, and Visual Studio to assist with student assignments.",
-    },
-    {
-      CompanyName: "University Of Cincinnati",
       specialization: "Software Developer",
-      MonthOfJoining: "Feb",
+      MonthOfJoining: "May",
       YearOfJoining: "2021",
-      MonthOfPassing: "Dec",
-      YearOfPassing: "2021",
+      MonthOfPassing: "Apr",
+      YearOfPassing: "2022",
       Achievements:
         "Experience in developing creating responsive web applications for my university using ReactJS, AngularJS, HTML, CSS, and BootstrapCSS. I excel in implementing scalable backend solutions using Python, collaborating with other developers using Git version control, and adhering to software development best practices. Proficient in debugging and resolving application bugs, implementing effective testing strategies, and following Agile development methodologies for efficient project completion. ",
     },
     {
-      CompanyName: "VakilSearch",
+      CompanyName: "Xcilica",
       specialization: "Junior Web Developer",
       MonthOfJoining: "Aug",
       YearOfJoining: "2019",
