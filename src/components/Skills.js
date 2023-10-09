@@ -36,7 +36,7 @@ export default class Skills extends Component {
               <button className="skill">JAVA</button>
             </div>
             <div className="skillwrapper">
-              <button className="skill">Node.js</button>
+              <button className="skill">PostgreSQL</button>
             </div>
             <div className="skillwrapper">
               <button className="skill">ANGULAR JS</button>
