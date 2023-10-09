@@ -6,7 +6,7 @@ let resumeData = {
   linkedinId: "https://www.linkedin.com/in/sreelekhaa/",
   skypeid: "Your skypeid",
   roleDescription:
-    "As an FrontEnd developer, I have a passion for learning and exploring new trends and technologies in the field. I am dedicated to improving my skills and staying up-to-date with the latest industry developments. ",
+    "As a Software developer, I have a passion for learning and exploring new trends and technologies in the field. I am dedicated to improving my skills and staying up-to-date with the latest industry developments. ",
   socialLinks: [
     {
       name: "linkedin",
@@ -51,7 +51,7 @@ let resumeData = {
       YearOfJoining: "2023",
 
       Achievements:
-        "Designed and developed user interfaces using HTML, BootstrapCSS, jQuery, AngularJS, Flexbox, D3.js, SVN, and ChartJS, including an executive dashboard for critical metric aggregation, and enhanced user experience with UI/UX design tools like Zeplin, Figma, and Carbon Design System.",
+        "Designed and developed user interfaces using HTML, BootstrapCSS, jQuery, ReactJS, Flexbox, D3.js, SVN, and ChartJS, including an executive dashboard for critical metric aggregation, and enhanced user experience with UI/UX design tools like Zeplin, Figma, and Carbon Design System.",
     },
     {
       CompanyName: "Amazon",
@@ -75,7 +75,7 @@ let resumeData = {
     },
     {
       CompanyName: "Xcilica",
-      specialization: "Junior Web Developer",
+      specialization: "Software Engineer",
       MonthOfJoining: "Aug",
       YearOfJoining: "2019",
       MonthOfPassing: "Dec",
