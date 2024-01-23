@@ -2,7 +2,7 @@ let resumeData = {
   imagebaseurl: "https://github.com/ssreelekhaa22",
   name: "Sreelekhaa",
   fullName: "Sreelekhaa Nagamalli Santhoshkumar",
-  role: "FrontEnd Developer",
+  role: "Software Developer",
   linkedinId: "https://www.linkedin.com/in/sreelekhaa/",
   skypeid: "Your skypeid",
   roleDescription:
@@ -25,7 +25,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    "I am a front-end developer with experience in designing and implementing dynamic web pages using HTML, CSS, JavaScript, jQuery, React JS, Angular JS, and Vue JS, and a Master's degree in Computer Science from the University of Cincinnati.",
+    "I am a software developer with experience in designing and implementing dynamic web pages using HTML, CSS, JavaScript, jQuery, React JS, APIs and a Master's degree in Computer Science from the University of Cincinnati.",
   mobileNo: "5138365977",
   emailAddress: "ssreelekhaa@gmail.com",
   website: "https://github.com/ssreelekhaa22",
@@ -71,17 +71,7 @@ let resumeData = {
       MonthOfPassing: "Apr",
       YearOfPassing: "2022",
       Achievements:
-        "Experience in developing creating responsive web applications for my university using ReactJS, AngularJS, HTML, CSS, and BootstrapCSS. I excel in implementing scalable backend solutions using Python, collaborating with other developers using Git version control, and adhering to software development best practices. Proficient in debugging and resolving application bugs, implementing effective testing strategies, and following Agile development methodologies for efficient project completion. ",
-    },
-    {
-      CompanyName: "Xcilica",
-      specialization: "Software Engineer",
-      MonthOfJoining: "Aug",
-      YearOfJoining: "2019",
-      MonthOfPassing: "Dec",
-      YearOfPassing: "2020",
-      Achievements:
-        "Developed user-friendly interfaces, integrating front-end with backend logic using RESTful APIs and Ajax calls. I excel in developing visually compelling dashboards using Power BI and maintaining relational databases using SQL Server, Oracle, and MySQL. Working closely with cross-functional teams, I ensure timely delivery of high-quality products while actively participating in code reviews to enhance coding practices and adherence to standards. ",
+        "Experience in developing creating responsive web applications for my university using ReactJS, HTML, BootstrapCSS and microservices. Proficient in debugging and resolving application bugs, implementing effective testing strategies, and following Agile development methodologies for efficient project completion. ",
     },
   ],
   skillsDescription: "Your skills here",

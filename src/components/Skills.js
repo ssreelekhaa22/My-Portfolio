@@ -33,13 +33,13 @@ export default class Skills extends Component {
               <button className="skill">MONGO DB</button>
             </div>
             <div className="skillwrapper">
-              <button className="skill">JAVA</button>
+              <button className="skill">Microservices</button>
             </div>
             <div className="skillwrapper">
               <button className="skill">PostgreSQL</button>
             </div>
             <div className="skillwrapper">
-              <button className="skill">ANGULAR JS</button>
+              <button className="skill">AWS Services</button>
             </div>
             <div className="skillwrapper">
               <button className="skill">TYPESCRIPT</button>
