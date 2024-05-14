@@ -27,13 +27,13 @@ export default class Skills extends Component {
               <button className="skill">REACTJS</button>
             </div>
             <div className="skillwrapper">
+              <button className="skill">TYPESCRIPT</button>
+            </div>
+            <div className="skillwrapper">
+              <button className="skill">Angular</button>
+            </div>
+            <div className="skillwrapper">
               <button className="skill">GITHUB</button>
-            </div>
-            <div className="skillwrapper">
-              <button className="skill">MONGO DB</button>
-            </div>
-            <div className="skillwrapper">
-              <button className="skill">Microservices</button>
             </div>
             <div className="skillwrapper">
               <button className="skill">PostgreSQL</button>
@@ -42,13 +42,13 @@ export default class Skills extends Component {
               <button className="skill">AWS Services</button>
             </div>
             <div className="skillwrapper">
-              <button className="skill">TYPESCRIPT</button>
+              <button className="skill">JUNIT </button>
+            </div>
+            <div className="skillwrapper">
+              <button className="skill">KARMA</button>
             </div>
             <div className="skillwrapper">
               <button className="skill">MYSQL</button>
-            </div>
-            <div className="skillwrapper">
-              <button className="skill">GraphQl</button>
             </div>
           </div>
         </div>
