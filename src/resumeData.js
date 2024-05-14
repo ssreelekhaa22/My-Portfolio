@@ -63,16 +63,6 @@ let resumeData = {
       Achievements:
         "Part of a team that built and released risk management for Amazon's EHS suite, utilizing ReactJs, GraphQL, TypeScript, Material-UI, and MirageDB. Increased test coverage from 60% to 90% by creating unit tests using Jest. Designed and implemented permissions for role-based access control. Participated in User Acceptance Testing and collaborated with diverse stakeholders. Presented concepts and demos at bi-weekly sprint intervals, and contributed to design and code reviews. ",
     },
-    {
-      CompanyName: "University Of Cincinnati",
-      specialization: "Software Developer",
-      MonthOfJoining: "May",
-      YearOfJoining: "2021",
-      MonthOfPassing: "Apr",
-      YearOfPassing: "2022",
-      Achievements:
-        "Experience in developing creating responsive web applications for my university using ReactJS, HTML, BootstrapCSS and microservices. Proficient in debugging and resolving application bugs, implementing effective testing strategies, and following Agile development methodologies for efficient project completion. ",
-    },
   ],
   skillsDescription: "Your skills here",
   skills: [
